@@ -1,4 +1,4 @@
-
+exclusive Obsidian for Windows Addon | collaboration + math-equations is the best Obsidian for Windows addon, featuring collaboration and math-equations. Powerful, efficient, and
 
 
 
